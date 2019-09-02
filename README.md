@@ -91,7 +91,9 @@ search_all                      #显示所有用户
 search_fuzzy（“你要搜索的内容”）        #进行模糊查询
 ```
 
+根据一两封邮件建立的人际关系网
 
+![](/home/roosi/ren/email-kb/人际关系网.png)
 
 #### 注意事项
 
