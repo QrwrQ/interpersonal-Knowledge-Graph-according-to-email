@@ -1,0 +1,131 @@
+Received: from 192.28.150.227 (unknown [192.28.150.227])
+	by newmx40.qq.com (NewMx) with SMTP id 
+	for <970504664@qq.com>; Fri, 09 Aug 2019 12:29:47 +0800
+X-QQ-FEAT: qo7VS5qHh2eLD+RTzQfNT+/toHEwzFyNu9ClCduyAFIWpr4SylcdeJF0MCmVS
+	mkpVUs6pwM5KkzQnIuj12Wb/SnHIxGV8jjW5yGmihm5K3Hf/VWX5mq4atGTWjY4RL2sKvEY
+	6Xb1YGAJboAItGWfQcxbyTWUmSMVBAqpLDHUwTE4Pj2NVWUHF9XcwwBdhr7SblwkAXA8Zdc
+	+j2silFrLCHrA2p83Y/rcPOiPbykEZOzdDzd9xp3GyQjq7Vmr4555xLodUiQcCU7Dq+ZAtF
+	b5azZV44zv/aU9n+xcgoScwB2S45zuW7LtwomRkOcoQlxfvkX/xJ9CHh8/oDYAzSCwOZ22O
+	GLCPz6E
+X-QQ-MAILINFO: Nj4k/6lmmRCS2AVUpIRtbrQicqefPGBX7uq5yNtmVxqQfcWsPrC1imcmH
+	wexlrbFLpCQPfIS5c6Rh9WBQRBbhz+cZuNeA+hU+u2l3mIeKpziQDmTL6LN4NxfQLUNiKeN
+	4Gi8OtMas09bImiJ2wChkDFtitejN3RjgbVfbdqNl5l5vmnUWN8Js61BLtqGh2/OEA==
+X-QQ-mid: mx40t1565324987t8gw1ekm4
+X-QQ-CSender: 710-RRC-335.0.19403.0.0.11611.9.3381298-1@potomac1050.mktomail.com
+X-QQ-ORGSender: 710-RRC-335.0.19403.0.0.11611.9.3381298-1@potomac1050.mktomail.com
+Return-Path: <devrel@neo4j.com>
+X-MSFBL: SZI5J48FyfN4A+YX+dfto6As5676fBIoBcj5USGOEtU=|eyJ1IjoiNzEwLVJSQy0
+	zMzU6MDoxMzM1OTo0ODg5NTowOjExNjExOjk6MTk0MDM6MzM4MTI5OC0xIiwiciI
+	6Ijk3MDUwNDY2NEBxcS5jb20iLCJnIjoiYmctYWItMDEiLCJiIjoiZHZwLTE5Mi0
+	yOC0xNTAtMjI2In0=
+Received: from [10.1.87.249] ([10.1.87.249:38686] helo=abmas02.marketo.org)
+	by abmta21.marketo.org (envelope-from <devrel@neo4j.com>)
+	(ecelerity 4.2.38.62370 r(:)) with ESMTP
+	id 30/F8-07177-8B6FC4D5; Thu, 08 Aug 2019 23:29:44 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1565324984;
+	s=m1; d=neo4j.com; i=@neo4j.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=7ERMGBmuuQPIra6oTpQDWuH5hNJCHBH19i7SYxUURkM=;
+	b=PgbQZvHViLzpNdehj6CRbbITLuIRzyXY8/rFIEegObVIwdYCY956CQHUvCwFyzvk
+	9Gk9wk4nFBgvjngEAI+h77qeS0icvAp/r/sVbmSTVysgM5JpjsuC9LB8J4VVc6z1HWg
+	zueRiZejTjqBtTvkLy97vPi373lEKz5tK8NbgmcU=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1565324984;
+	s=m1; d=mktomail.com; i=@mktomail.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=7ERMGBmuuQPIra6oTpQDWuH5hNJCHBH19i7SYxUURkM=;
+	b=IpqMKPJgf/HDWdQrFHgPlYL5FV5/0lWosPKDaI0/aNh4HChCUg6rv8bbhbwwLWqg
+	uNUnC7SO1vOXYGYD/LGkS57a1NQ65mauankfAD1C5NJbnQ6lU4pumv1zFTwovlxDkWs
+	tacmBhsNt7KcPOoZCObp32Cmv1POXaK38u7qMS/Y=
+Date: Thu, 8 Aug 2019 23:29:44 -0500 (CDT)
+From: Ryan Boyd <devrel@neo4j.com>
+Reply-To: devrel@neo4j.com
+To: 970504664@qq.com
+Message-ID: <1386441905.56978060.1565324984484.JavaMail.mktmail@abmas02.marketo.org>
+Subject: Get Involved in the Community
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_56978051_1237908920.1565324984479"
+X-Binding: bg-ab-01
+X-MarketoID: 710-RRC-335:0:13359:48895:0:11611:9:19403:3381298-1
+X-MktArchive: false
+List-Unsubscribe: <mailto:LBTEQ32IKZLFUQZQK5ZS2WCSGV2TETDEJRAT2PI.19403.11611.9@unsub-ab.mktomail.com>
+X-Mailfrom: 710-RRC-335.0.19403.0.0.11611.9.3381298-1@potomac1050.mktomail.com
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+
+------=_Part_56978051_1237908920.1565324984479
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<https://message.neo4j.com/HR0020b0N4aDmCe01hR00jY>
+
+Greetings rossi,
+
+We trust that you've enjoyed your experience with Neo4j and found value in the intuitiveness, speed, and agility of using a native graph database for your applications.
+
+We'd like to invite you to become active in the Neo4j community! If you haven't joined our Community Site and Forum <https://message.neo4j.com/Y0Yem0bN400bD0021RR0kCh> yet, we'd encourage you to do that now. You should also join your local Neo4j Meetup community <https://message.neo4j.com/yhmRDb4N0Y01CRl0ec00020>. Come meet the community and teams at GraphConnect or other events <https://message.neo4j.com/Lbe2CR00h0mm0RdD4010Y0N>.
+
+Are you so excited that you want to tell the world about how amazing graph databases are? Request an invite to join our ambassador program <https://message.neo4j.com/z0bD2Y1000eRNnmhR4e0C00>, and share your story for our blog by e-mailing content@neo4j.com <https://message.neo4j.com/ZRNe40hfY0000b0Do201CRm>.
+
+ <[[https://neo4j.com/graphacademy/neo4j-certification/" target="_blank" title="CertifiedT"><img src=]]>As a fellow Graphista, we'd encourage you to become a Neo4j Certified Professional <https://message.neo4j.com/s0pm01h0DRNg0R0be420Y0C> today! After passing this short 1-hour, free online exam, you can demonstrate your Neo4j knowledge to your employer and potential employers on LinkedIn.
+
+Best of all, for a limited time, you'll get your very own Neo4j Certified t-shirt and laptop sticker!
+
+May the Graph Be with You,
+
+Ryan Boyd
+ Neo4j Developer Relations
+ @ryguyrg <https://message.neo4j.com/x0R0000m2qh01NR0hYe4DCb>Si
+
+This email was sent to 970504664@qq.com. If you no longer wish to receive these emails you may unsubscribe here: https://neo4j.com/manage-subscriptions/?mkt_unsubscribe=1&mkt_tok=eyJpIjoiTTJRell6Z3hOalZsWVdVNCIsInQiOiI4bko2bDJhMWFlUlNSSllFNXZWN1BFcXV1NzBLSEljZ2gwbWVERDVtekNFQUNEbjJxbm02UXJUaGhSRmc3TUFlaHYyc1BDT1B0TmROSUNEWVM1MTlXMlBsY0hjSU5ZemRMSTIyS0dDNnE5enpOSlNENnc1S0o2KzQ2NmNHbGh5ViJ9.
+
+------=_Part_56978051_1237908920.1565324984479
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+<title></title> 
+</head> 
+<body style="background-color: white;"> 
+<div style=""> 
+<div class="mktEditable" style="" id="mkto_autogen_id_0">
+<center> 
+<a href=
+"https://message.neo4j.com/HR0020b0N4aDmCe01hR00jY" target="_blank"
+><span style="font-family: arial, helvetica, sans-serif; font-size: 12px;"><img src="https://na-ab10.marketo.com/rs/710-RRC-335/images/neo4j-logo-smallest.png" width="160" constrain="true" imagepreview="false" height="64"></span></a> 
+</center> 
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12px;">Greetings rossi,</span><br><br><span style="font-family: arial, helvetica, sans-serif; font-size: 12px;">We trust that you've enjoyed your experience with Neo4j and found value in the intuitiveness, speed, and agility of using a native graph database for your applications.<br><br>We'd like to invite you to become active in the Neo4j community!&nbsp;<span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 
+0px; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">Have any questions? If you haven't joined our<span>&nbsp;</span></span><a href=
+"https://message.neo4j.com/Y0Yem0bN400bD0021RR0kCh" target="_blank" id="" style="cursor: pointer !important; font-family: arial, helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; 
+font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;"
+>Community Site and Forum</a>&nbsp;yet, we'd encourage you to do that now. You should also join your local <a href=
+"https://message.neo4j.com/yhmRDb4N0Y01CRl0ec00020" target="_blank"
+>Neo4j Meetup community</a>.&nbsp;Come meet the community and teams at GraphConnect or <a href=
+"https://message.neo4j.com/Lbe2CR00h0mm0RdD4010Y0N" target="_blank"
+>other events</a>.<br><br>Are you so excited that you want to tell the world about how amazing graph databases are? Request an invite to join our <a href=
+"https://message.neo4j.com/z0bD2Y1000eRNnmhR4e0C00" target="_blank"
+>ambassador program</a>, and share your story for our blog by e-mailing <a href=
+"https://message.neo4j.com/ZRNe40hfY0000b0Do201CRm" target="_blank"
+>content@neo4j.com</a>.<br><br><a href=
+"https://message.neo4j.com/s0pm01h0DRNg0R0be420Y0C" target="_blank" title="CertifiedT"
+><img src="https://na-ab10.marketo.com/rs/710-RRC-335/images/image01.jpg" width="120" height="152" constrain="true" imagepreview="false" align="left" hspace="10"></a></span><span style="font-family: arial, helvetica, sans-serif; font-size: 12px;">As a fellow Graphista, we'd encourage you to become a <a href=
+"https://message.neo4j.com/s0pm01h0DRNg0R0be420Y0C" target="_blank"
+>Neo4j Certified Professional</a> today! After passing this short 1-hour, free online exam, you can demonstrate your Neo4j knowledge to your employer and potential employers on LinkedIn.<br><br>Best of all, for a limited time, you'll get your very own Neo4j Certified t-shirt and laptop sticker!<br><br>May the Graph Be with You,</span></p> 
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12px;">Ryan Boyd</span><br><span style="font-family: arial, helvetica, sans-serif; font-size: 12px;"> Neo4j Developer Relations</span><br><span style="font-family: arial, helvetica, sans-serif; font-size: 12px;"> <a href=
+"https://message.neo4j.com/x0R0000m2qh01NR0hYe4DCb"
+>@ryguyrg</a></span></p> 
+</div> 
+</div>  
+
+<img src="http://message.neo4j.com/trk?t=1&mid=NzEwLVJSQy0zMzU6MDoxMzM1OTo0ODg5NTowOjExNjExOjk6MTk0MDM6MzM4MTI5OC0xOm51bGw%3D" width="1" height="1" style="display:none !important;" alt="" />
+
+<p><font face="Verdana" size="1">This email was sent to 970504664@qq.com. If you no longer wish to receive these emails you may <a href=
+"https://message.neo4j.com/u/eN0DrC02000RRm0behi140Y"
+>unsubscribe</a> at any time. </font> </p>
+</body>
+</html>
+------=_Part_56978051_1237908920.1565324984479--
+

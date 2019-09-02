@@ -1,0 +1,68 @@
+From: Ryan Boyd <devrel@neo4j.com>
+To:  <970504664@qq.com>
+Subject: Get Involved in the Community
+Text: <https://message.neo4j.com/HR0020b0N4aDmCe01hR00jY>
+
+Greetings rossi,
+
+We trust that you've enjoyed your experience with Neo4j and found value in the intuitiveness, speed, and agility of using a native graph database for your applications.
+
+We'd like to invite you to become active in the Neo4j community! If you haven't joined our Community Site and Forum <https://message.neo4j.com/Y0Yem0bN400bD0021RR0kCh> yet, we'd encourage you to do that now. You should also join your local Neo4j Meetup community <https://message.neo4j.com/yhmRDb4N0Y01CRl0ec00020>. Come meet the community and teams at GraphConnect or other events <https://message.neo4j.com/Lbe2CR00h0mm0RdD4010Y0N>.
+
+Are you so excited that you want to tell the world about how amazing graph databases are? Request an invite to join our ambassador program <https://message.neo4j.com/z0bD2Y1000eRNnmhR4e0C00>, and share your story for our blog by e-mailing content@neo4j.com <https://message.neo4j.com/ZRNe40hfY0000b0Do201CRm>.
+
+ <[[https://neo4j.com/graphacademy/neo4j-certification/" target="_blank" title="CertifiedT"><img src=]]>As a fellow Graphista, we'd encourage you to become a Neo4j Certified Professional <https://message.neo4j.com/s0pm01h0DRNg0R0be420Y0C> today! After passing this short 1-hour, free online exam, you can demonstrate your Neo4j knowledge to your employer and potential employers on LinkedIn.
+
+Best of all, for a limited time, you'll get your very own Neo4j Certified t-shirt and laptop sticker!
+
+May the Graph Be with You,
+
+Ryan Boyd
+ Neo4j Developer Relations
+ @ryguyrg <https://message.neo4j.com/x0R0000m2qh01NR0hYe4DCb>Si
+
+This email was sent to 970504664@qq.com. If you no longer wish to receive these emails you may unsubscribe here: https://neo4j.com/manage-subscriptions/?mkt_unsubscribe=1&mkt_tok=eyJpIjoiTTJRell6Z3hOalZsWVdVNCIsInQiOiI4bko2bDJhMWFlUlNSSllFNXZWN1BFcXV1NzBLSEljZ2gwbWVERDVtekNFQUNEbjJxbm02UXJUaGhSRmc3TUFlaHYyc1BDT1B0TmROSUNEWVM1MTlXMlBsY0hjSU5ZemRMSTIyS0dDNnE5enpOSlNENnc1S0o2KzQ2NmNHbGh5ViJ9.
+Text: <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+<title></title> 
+</head> 
+<body style="background-color: white;"> 
+<div style=""> 
+<div class="mktEditable" style="" id="mkto_autogen_id_0">
+<center> 
+<a href=
+"https://message.neo4j.com/HR0020b0N4aDmCe01hR00jY" target="_blank"
+><span style="font-family: arial, helvetica, sans-serif; font-size: 12px;"><img src="https://na-ab10.marketo.com/rs/710-RRC-335/images/neo4j-logo-smallest.png" width="160" constrain="true" imagepreview="false" height="64"></span></a> 
+</center> 
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12px;">Greetings rossi,</span><br><br><span style="font-family: arial, helvetica, sans-serif; font-size: 12px;">We trust that you've enjoyed your experience with Neo4j and found value in the intuitiveness, speed, and agility of using a native graph database for your applications.<br><br>We'd like to invite you to become active in the Neo4j community!&nbsp;<span style="color: #000000; font-family: arial, helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 
+0px; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">Have any questions? If you haven't joined our<span>&nbsp;</span></span><a href=
+"https://message.neo4j.com/Y0Yem0bN400bD0021RR0kCh" target="_blank" id="" style="cursor: pointer !important; font-family: arial, helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; 
+font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;"
+>Community Site and Forum</a>&nbsp;yet, we'd encourage you to do that now. You should also join your local <a href=
+"https://message.neo4j.com/yhmRDb4N0Y01CRl0ec00020" target="_blank"
+>Neo4j Meetup community</a>.&nbsp;Come meet the community and teams at GraphConnect or <a href=
+"https://message.neo4j.com/Lbe2CR00h0mm0RdD4010Y0N" target="_blank"
+>other events</a>.<br><br>Are you so excited that you want to tell the world about how amazing graph databases are? Request an invite to join our <a href=
+"https://message.neo4j.com/z0bD2Y1000eRNnmhR4e0C00" target="_blank"
+>ambassador program</a>, and share your story for our blog by e-mailing <a href=
+"https://message.neo4j.com/ZRNe40hfY0000b0Do201CRm" target="_blank"
+>content@neo4j.com</a>.<br><br><a href=
+"https://message.neo4j.com/s0pm01h0DRNg0R0be420Y0C" target="_blank" title="CertifiedT"
+><img src="https://na-ab10.marketo.com/rs/710-RRC-335/images/image01.jpg" width="120" height="152" constrain="true" imagepreview="false" align="left" hspace="10"></a></span><span style="font-family: arial, helvetica, sans-serif; font-size: 12px;">As a fellow Graphista, we'd encourage you to become a <a href=
+"https://message.neo4j.com/s0pm01h0DRNg0R0be420Y0C" target="_blank"
+>Neo4j Certified Professional</a> today! After passing this short 1-hour, free online exam, you can demonstrate your Neo4j knowledge to your employer and potential employers on LinkedIn.<br><br>Best of all, for a limited time, you'll get your very own Neo4j Certified t-shirt and laptop sticker!<br><br>May the Graph Be with You,</span></p> 
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12px;">Ryan Boyd</span><br><span style="font-family: arial, helvetica, sans-serif; font-size: 12px;"> Neo4j Developer Relations</span><br><span style="font-family: arial, helvetica, sans-serif; font-size: 12px;"> <a href=
+"https://message.neo4j.com/x0R0000m2qh01NR0hYe4DCb"
+>@ryguyrg</a></span></p> 
+</div> 
+</div>  
+
+<img src="http://message.neo4j.com/trk?t=1&mid=NzEwLVJSQy0zMzU6MDoxMzM1OTo0ODg5NTowOjExNjExOjk6MTk0MDM6MzM4MTI5OC0xOm51bGw%3D" width="1" height="1" style="display:none !important;" alt="" />
+
+<p><font face="Verdana" size="1">This email was sent to 970504664@qq.com. If you no longer wish to receive these emails you may <a href=
+"https://message.neo4j.com/u/eN0DrC02000RRm0behi140Y"
+>unsubscribe</a> at any time. </font> </p>
+</body>
+</html>
